@@ -7,8 +7,8 @@ import pandas as pd
 # update the proxy settings
 # os.environ['HTTP_PROXY'] = 'my_proxy_id:proxy_port'
 # os.environ['HTTPS_PROXY'] = 'my_proxy_id:proxy_port'
-os.environ['HTTP_PROXY'] = 'http://127.0.0.1:10024'
-os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:10024'
+# os.environ['HTTP_PROXY'] = 'http://127.0.0.1:10024'
+# os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:10024'
 
 
 api_key = ''
