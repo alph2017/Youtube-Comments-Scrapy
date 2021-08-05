@@ -2,7 +2,7 @@
 Using google-api-python-client to scrapy specified youtube video.
 e:comments and replies
 
-## **爬虫油管指定视频的评论回复**。
+## **爬虫油管指定视频的评论和回复**。
 
 国内用户需要代理，通过
 
